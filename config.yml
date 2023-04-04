@@ -17,7 +17,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
+  title: ClowdGooRoos
   description: "A site for the ClowdGooRoos to have their blog and other things"
   keywords: [Blog, Portfolio, PaperMod, ClowdGooRoos]
   author: ClowdGooRoos Admin

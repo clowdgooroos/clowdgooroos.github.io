@@ -40,6 +40,6 @@ Another benefit of cloud-to-tf is that it enables users to manage their cloud in
 
 cloud-to-tf also offers a high degree of flexibility, allowing users to customize their infrastructure management workflows to meet their specific needs. The tool supports a wide range of cloud resources, and it can be configured to generate Terraform code in a variety of formats, including JSON and YAML. This flexibility ensures that users can manage their infrastructure in the way that best suits their organization.
 
-In summary, cloud-to-tf is an exciting new tool that promises to simplify the process of managing cloud infrastructure using Terraform. By automating the process of converting cloud resources into Terraform code, cloud-to-tf reduces the time and effort required to manage infrastructure while enabling greater flexibility and customization. If you're looking to streamline your cloud infrastructure management workflows, be sure to check out cloud-to-tf on GitHub!
+To us, cloud-to-tf is an exciting new tool that promises to simplify the process of managing cloud infrastructure using Terraform. By automating the process of converting cloud resources into Terraform code, cloud-to-tf reduces the time and effort required to manage infrastructure while enabling greater flexibility and customization. If you're looking to streamline your cloud infrastructure management workflows, be sure to check out cloud-to-tf on GitHub!
 
 Shift left cloud resource generation via terraform automation and leverage and transform cloud automation into terraform ready modules.
